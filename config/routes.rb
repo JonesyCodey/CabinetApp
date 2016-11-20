@@ -8,6 +8,4 @@ authenticated :user do
 end
 
 root 'welcome#index'
-
-
 end
